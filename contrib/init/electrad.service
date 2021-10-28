@@ -1,0 +1,26 @@
+[Unit]
+Description=alicoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=alicoin
+Group=alicoin
+
+Type=forking
+PIDFile=/var/lib/alicoind/alicoind.pid
+
+ExecStart=/usr/bin/alicoind -daemon -pid=/var/lib/alicoind/alicoind.pid \
+          -conf=/etc/alicoin/alicoin.conf -datadir=/var/lib/alicoind
+
+ExecStop=-/usr/bin/alicoin-cli -conf=/etc/alicoin/alicoin.conf \
+         -datadir=/var/lib/alicoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/alicoin_bg.qm</file>
+        <file alias="ca">locale/alicoin_ca.qm</file>
+        <file alias="cs">locale/alicoin_cs.qm</file>
+        <file alias="da">locale/alicoin_da.qm</file>
+        <file alias="de">locale/alicoin_de.qm</file>
+        <file alias="en">locale/alicoin_en.qm</file>
+        <file alias="en_US">locale/alicoin_en_US.qm</file>
+        <file alias="eo">locale/alicoin_eo.qm</file>
+        <file alias="es">locale/alicoin_es.qm</file>
+        <file alias="es_ES">locale/alicoin_es_ES.qm</file>
+        <file alias="fi">locale/alicoin_fi.qm</file>
+        <file alias="fr_FR">locale/alicoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/alicoin_hi_IN.qm</file>
+        <file alias="hr">locale/alicoin_hr.qm</file>
+        <file alias="hr_HR">locale/alicoin_hr_HR.qm</file>
+        <file alias="it">locale/alicoin_it.qm</file>
+        <file alias="ja">locale/alicoin_ja.qm</file>
+        <file alias="ko_KR">locale/alicoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/alicoin_lt_LT.qm</file>
+        <file alias="nl">locale/alicoin_nl.qm</file>
+        <file alias="pl">locale/alicoin_pl.qm</file>
+        <file alias="pt">locale/alicoin_pt.qm</file>
+        <file alias="pt_BR">locale/alicoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/alicoin_ro_RO.qm</file>
+        <file alias="ru">locale/alicoin_ru.qm</file>
+        <file alias="sk">locale/alicoin_sk.qm</file>
+        <file alias="sv">locale/alicoin_sv.qm</file>
+        <file alias="tr">locale/alicoin_tr.qm</file>
+        <file alias="uk">locale/alicoin_uk.qm</file>
+        <file alias="vi">locale/alicoin_vi.qm</file>
+        <file alias="zh_CN">locale/alicoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/alicoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

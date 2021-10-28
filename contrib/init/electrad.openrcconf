@@ -1,0 +1,26 @@
+# /etc/conf.d/alicoind: config file for /etc/init.d/alicoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/alicoin/alicoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/alicoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/alicoind.pid"
+
+# Where to write alicoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/alicoind"
+
+# User and group to own alicoind process
+#BITCOIND_USER="alicoin"
+#BITCOIND_GROUP="alicoin"
+
+# Path to alicoind executable
+#BITCOIND_BIN="/usr/bin/alicoind"
+
+# Nice value to run alicoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

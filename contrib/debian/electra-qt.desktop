@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=alicoin
+Comment=alicoin P2P Cryptocurrency
+Comment[fr]=alicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=alicoin, eşten eşe kriptografik sanal para birimi
+Exec=alicoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/alicoin;
+Categories=Office;Finance;
