@@ -1,8 +1,8 @@
 # AliCoin
 
 
-# What is alicoin?
-alicoin is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, alicoin coin (alicoin) is unique in its distribution. 
+# What is AliCoin?
+AliCoin is a Blockchain digital currency of AliXconnect using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, AliCoin is unique in its distribution. 
 
 <a name="specifications"></a>
 ## Technical Specifications
@@ -16,7 +16,6 @@ alicoin is a Blockchain using the highly-secure and power-efficient NIST5 algori
 <tr> <td>Transactions Per Second</td><td>~800</td></tr>
 <tr> <td>Retarget</td><td>Every Block</td></tr>
 <tr> <td>Lightning Network</td><td>Yes</td></tr>
-<tr> <td>Atomic Swap</td><td>Yes (Barterdex)</td></tr>
 <tr> <td>Premine</td><td>20 Millions</td></tr>
 <tr> <td>Foundation</td><td>Yes</td></tr>
 </table>
