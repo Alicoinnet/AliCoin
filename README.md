@@ -7,7 +7,7 @@ AliCoin is a Blockchain digital currency of AliXconnect using the highly-secure 
 <a name="specifications"></a>
 ## Technical Specifications
 <table>
-<tr> <td>Ticker</td><td>ALIC</td></tr>
+<tr> <td>Ticker</td><td>ALICN</td></tr>
 <tr> <td>Algorithm</td><td>NIST5/SHA-256</td></tr>
 <tr> <td>Consensus</td><td>Proof-of-Work</td></tr>
 <tr> <td>Maximum Supply</td><td>120,000,000 </td></tr>
